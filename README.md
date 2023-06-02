@@ -1,37 +1,36 @@
 
-# 👋 Hi there! Thanks for visit :blush:
+# 👋 Hi there! Thanks for visiting :blush:
 
-<pre>
+<br>
 <br>
   ▰▰▰───────────────────┤ Whoami ├────────────▰▰▰
-
-## ├─◈ 
-## │
-## │  I’m **Adabogo Emmanuel**
-## │  
-## │ 📫 You can reach me through emmanueladabogo@gmail.com_
-## │
-## ├─◈ 
-
-
+<br>
+## ├─◈  <br>
+## │   <br>
+## ├─◈ I’m **Adabogo Emmanuel**<br>
+## │   <br>
+## ├─◈ 📫 You can reach me through emmanueladabogo@gmail.com <br>
+## │   <br>
+## ├─◈ <br>
+<br>
+<br>
 <br>
   ▰▰▰────────────────┤ Lets Connect ├─────────▰▰▰
 
-│
-├─◈ [LinkedIn](https://www.linkedin.com/in/adabogo-emmanuel-89a213216/)
-├─◈ [Twitter](https://www.twitter.com/Emeritus_adabs)
-├─◈ [Website](Adabs-hub.github.io/me/)
-│
-├─◈ Show some love and star my projects :blush: :heart: :droplet:
-│
+│<br>
+├─◈ [LinkedIn](https://www.linkedin.com/in/adabogo-emmanuel-89a213216/)<br>
+├─◈ [Twitter](https://www.twitter.com/Emeritus_adabs)<br>
+├─◈ [Website](Adabs-hub.github.io/me/)<br>
+│<br>
+├─◈ Show some love and star my projects :blush: :heart: :droplet:<br>
+│<br>
 
 <br>
   ▰▰▰────────────────┤ Programming Languages ├─────────▰▰▰
-</pre>
 <!--       LANG -->
-<code><img style = "padding-left: 40px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img style="padding-left: 40px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+> <code><img style = "padding-left: 40px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+> <code><img style="padding-left: 40px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
