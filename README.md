@@ -1,32 +1,33 @@
 
 # 👋 Hi there! Thanks for visit :blush:
 
+<pre>
 <br>
   ▰▰▰───────────────────┤ Whoami ├────────────▰▰▰
 
-> ├─◈ 
-> │
-> │  I’m **Adabogo Emmanuel**
-> │  
-> │ 📫 You can reach me through emmanueladabogo@gmail.com_
-> │
-> ├─◈ 
+## ├─◈ 
+## │
+## │  I’m **Adabogo Emmanuel**
+## │  
+## │ 📫 You can reach me through emmanueladabogo@gmail.com_
+## │
+## ├─◈ 
 
 
 <br>
   ▰▰▰────────────────┤ Lets Connect ├─────────▰▰▰
 
 │
-├─◈ ![LinkedIn](https://www.linkedin.com/in/adabogo-emmanuel-89a213216/)
-├─◈ ![Twitter](https://www.twitter.com/Emeritus_adabs)
-├─◈ ![Website](Adabs-hub.github.io/me/)
+├─◈ [LinkedIn](https://www.linkedin.com/in/adabogo-emmanuel-89a213216/)
+├─◈ [Twitter](https://www.twitter.com/Emeritus_adabs)
+├─◈ [Website](Adabs-hub.github.io/me/)
 │
 ├─◈ Show some love and star my projects :blush: :heart: :droplet:
 │
 
 <br>
   ▰▰▰────────────────┤ Programming Languages ├─────────▰▰▰
-
+</pre>
 <!--       LANG -->
 <code><img style = "padding-left: 40px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img style="padding-left: 40px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
