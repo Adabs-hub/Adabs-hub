@@ -6,7 +6,6 @@
 
 <br>
 <p align="center">      ▰▰▰─────────────────────┤ <strong>root:~$whoami</strong> ├────────────────▰▰▰  </p>
-<br>
 <pre>
  ├─◈
  │   
@@ -25,11 +24,10 @@
 <br>
 <br>
 <p align="center">        ▰▰▰──────────────┤ <strong>root:~$ssh Adabs@socialmedia</strong> ├─────────▰▰▰ </p>
-<br>
 │<br>
-├─◈ [LinkedIn](https://www.linkedin.com/in/adabogo-emmanuel-89a213216/) <br>
+├─◈ <a href="https://www.linkedin.com/in/adabogo-emmanuel-89a213216/">LinkIn</a>
 ├─◈ [Twitter](https://www.twitter.com/Emeritus_adabs) <br>
-├─◈ [Website](Adabs-hub.github.io/me/) <br>
+├─◈ [Website](https://www.Adabs-hub.github.io/me/) <br>
 │<br>
 ├─◈ Show some love and star my projects :blush: :heart: :droplet:<br>
 │ <br>
@@ -37,7 +35,6 @@
 <br>
 <br>
 <p align="center">      ▰▰▰──────────────────────┤ <strong>root:~$ps aux</strong> ├───────────────────▰▰▰  </p>
-<br>
 
 ---------------
 
