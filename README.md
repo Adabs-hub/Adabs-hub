@@ -3,8 +3,11 @@
   
 <br>
 <br>
-            ▰▰▰───────────────────┤ <strong>root:~$whoami</strong> ├────────────▰▰▰
 
+-----------------
+
+   <pre>        ▰▰▰─────────────────────┤ <strong>root:~$whoami</strong> ├────────────────▰▰▰  </pre>
+<br>
 <pre>
  ├─◈
  │   
@@ -18,15 +21,12 @@
  │   
  ├─◈ best quote: <em>Shallow men believe in luck. Strong men believe in cause and effect.</em> -Ralph Waldo Emerson
  │
-
 </pre>
+
 <br>
 <br>
-
----------------
-
-              ▰▰▰────────────────┤ <strong>root:~$ssh Adabs@socialmedia</strong> ├─────────▰▰▰
-
+    <pre>        ▰▰▰──────────────┤ <strong>root:~$ssh Adabs@socialmedia</strong> ├─────────▰▰▰   </pre>
+<br>
 │<br>
 ├─◈ [LinkedIn](https://www.linkedin.com/in/adabogo-emmanuel-89a213216/)<br>
 ├─◈ [Twitter](https://www.twitter.com/Emeritus_adabs)<br>
@@ -35,10 +35,9 @@
 ├─◈ Show some love and star my projects :blush: :heart: :droplet:<br>
 │ <br>
 
----------------
-
 <br>
-                  ▰▰▰────────────────┤ <strong>root:~$ps aux</strong> ├─────────▰▰▰
+<br>
+         <pre>   ▰▰▰──────────────────────┤ <strong>root:~$ps aux</strong> ├───────────────────▰▰▰  </pre>
 <br>
 
 ---------------
