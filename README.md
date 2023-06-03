@@ -6,7 +6,7 @@
             ▰▰▰───────────────────┤ <strong>root:~$whoami</strong> ├────────────▰▰▰
 
 <pre>
- ├─◈  <
+ ├─◈
  │   
  ├─◈ My name is <strong>Adabogo Emmanuel</strong>
  │   
@@ -21,8 +21,8 @@
 
 </pre>
 <br>
----------------
 <br>
+---------------
               ▰▰▰────────────────┤ <strong>root:~$ssh Adabs@socialmedia</strong> ├─────────▰▰▰
 
 │<br>
@@ -32,12 +32,13 @@
 │<br>
 ├─◈ Show some love and star my projects :blush: :heart: :droplet:<br>
 │ <br>
+
 ---------------
 <br>
                   ▰▰▰────────────────┤ <strong>root:~$ps aux</strong> ├─────────▰▰▰
 <br>
 ---------------
-| [![Adabs GitHub stats](https://github-readme-stats.vercel.app/api?username=adabs-hub&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/adabs-hub?tab=repositories) | [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adabs-hub&layout=compact&hide_border=true&theme=jolly)](https://github.com/adabs-hub?tab=repositories) |
+[![Adabs GitHub stats](https://github-readme-stats.vercel.app/api?username=adabs-hub&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/adabs-hub?tab=repositories) | [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adabs-hub&layout=compact&hide_border=true&theme=jolly)](https://github.com/adabs-hub?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
