@@ -3,20 +3,27 @@
   
 <br>
 <br>
-  ▰▰▰───────────────────┤ <strong>root:~$whoami</strong> ├────────────▰▰▰
+            ▰▰▰───────────────────┤ <strong>root:~$whoami</strong> ├────────────▰▰▰
 
 <pre>
  ├─◈  <
  │   
- ├─◈ I’m **Adabogo Emmanuel**
+ ├─◈ My name is <strong>Adabogo Emmanuel</strong>
  │   
+ ├─◈ I'm A potential Full-stack developer
+ │
+ ├─◈  I love to contribute to open source projects
+ │
  ├─◈ 📫 You can reach me through emmanueladabogo@gmail.com 
  │   
- ├─◈
+ ├─◈ best quote: <em>Shallow men believe in luck. Strong men believe in cause and effect.</em> -Ralph Waldo Emerson
+ │
+
 </pre>
 <br>
+---------------
 <br>
-  ▰▰▰────────────────┤ <strong>Lets Connect</strong> ├─────────▰▰▰
+              ▰▰▰────────────────┤ <strong>root:~$ssh Adabs@socialmedia</strong> ├─────────▰▰▰
 
 │<br>
 ├─◈ [LinkedIn](https://www.linkedin.com/in/adabogo-emmanuel-89a213216/)<br>
@@ -24,12 +31,11 @@
 ├─◈ [Website](Adabs-hub.github.io/me/)<br>
 │<br>
 ├─◈ Show some love and star my projects :blush: :heart: :droplet:<br>
-│<br>
-
+│ <br>
+---------------
 <br>
-
-▰▰▰────────────────┤ <strong>My stats</strong> ├─────────▰▰▰
-
+                  ▰▰▰────────────────┤ <strong>root:~$ps aux</strong> ├─────────▰▰▰
+<br>
 ---------------
 | [![Adabs GitHub stats](https://github-readme-stats.vercel.app/api?username=adabs-hub&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/adabs-hub?tab=repositories) | [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adabs-hub&layout=compact&hide_border=true&theme=jolly)](https://github.com/adabs-hub?tab=repositories) |
 |:-:|:-:|
