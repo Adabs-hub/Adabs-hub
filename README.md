@@ -6,7 +6,8 @@
 
 -----------------
 
-   <pre>        ▰▰▰─────────────────────┤ <strong>root:~$whoami</strong> ├────────────────▰▰▰  </pre>
+<br>
+           ▰▰▰─────────────────────┤ <strong>root:~$whoami</strong> ├────────────────▰▰▰  
 <br>
 <pre>
  ├─◈
@@ -25,7 +26,7 @@
 
 <br>
 <br>
-    <pre>        ▰▰▰──────────────┤ <strong>root:~$ssh Adabs@socialmedia</strong> ├─────────▰▰▰   </pre>
+            ▰▰▰──────────────┤ <strong>root:~$ssh Adabs@socialmedia</strong> ├─────────▰▰▰ 
 <br>
 │<br>
 ├─◈ [LinkedIn](https://www.linkedin.com/in/adabogo-emmanuel-89a213216/)<br>
@@ -37,7 +38,7 @@
 
 <br>
 <br>
-         <pre>   ▰▰▰──────────────────────┤ <strong>root:~$ps aux</strong> ├───────────────────▰▰▰  </pre>
+            ▰▰▰──────────────────────┤ <strong>root:~$ps aux</strong> ├───────────────────▰▰▰  
 <br>
 
 ---------------
