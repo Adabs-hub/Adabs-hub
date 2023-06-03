@@ -3,7 +3,7 @@
   
 <br>
 <br>
-  ▰▰▰───────────────────┤ <h3><b>root:~$whoami</b></h3> ├────────────▰▰▰
+  ▰▰▰───────────────────┤ <strong>root:~$whoami</strong> ├────────────▰▰▰
 
 <pre>
  ├─◈  <
@@ -16,7 +16,7 @@
 </pre>
 <br>
 <br>
-  ▰▰▰────────────────┤ <h3><b>Lets Connect</b></h3> ├─────────▰▰▰
+  ▰▰▰────────────────┤ <strong>Lets Connect</strong> ├─────────▰▰▰
 
 │<br>
 ├─◈ [LinkedIn](https://www.linkedin.com/in/adabogo-emmanuel-89a213216/)<br>
@@ -28,7 +28,7 @@
 
 <br>
 
-▰▰▰────────────────┤ <h3><b>My stats</b></h3> ├─────────▰▰▰
+▰▰▰────────────────┤ <strong>My stats</strong> ├─────────▰▰▰
 
 ---------------
 | [![Adabs GitHub stats](https://github-readme-stats.vercel.app/api?username=adabs-hub&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/adabs-hub?tab=repositories) | [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adabs-hub&layout=compact&hide_border=true&theme=jolly)](https://github.com/adabs-hub?tab=repositories) |
