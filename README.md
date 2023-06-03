@@ -24,6 +24,7 @@
 <br>
 <br>
 <p align="center">        ▰▰▰──────────────┤ <strong>root:~$ssh Adabs@socialmedia</strong> ├─────────▰▰▰ </p>
+<pre>
 │<br>
 ├─◈ <a href="https://www.linkedin.com/in/adabogo-emmanuel-89a213216/">LinkIn</a>
 ├─◈ [Twitter](https://www.twitter.com/Emeritus_adabs) <br>
@@ -31,7 +32,7 @@
 │<br>
 ├─◈ Show some love and star my projects :blush: :heart: :droplet:<br>
 │ <br>
-
+</pre>
 <br>
 <br>
 <p align="center">      ▰▰▰──────────────────────┤ <strong>root:~$ps aux</strong> ├───────────────────▰▰▰  </p>
