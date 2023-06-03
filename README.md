@@ -13,7 +13,7 @@
  ├─◈ 📫 You can reach me through emmanueladabogo@gmail.com 
  │   
  ├─◈
-<pre>
+</pre>
 <br>
 <br>
   ▰▰▰────────────────┤ <b>Lets Connect</b> ├─────────▰▰▰
@@ -29,7 +29,7 @@
 <br>
   ▰▰▰────────────────┤ <b>Programming Languages</b> ├─────────▰▰▰
 <!--       LANG -->
-<p>
+
 <span><img style = "padding-left: 40px;" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></span>
 
 <span><img height="40" src="<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="40" height="40" viewBox="0 0 256 256" xml:space="preserve"><defs></defs><g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)" >
@@ -80,7 +80,6 @@
       alt="python" width="40" height="40" /> <a href="https://cdn-icons-png.flaticon.com" target="_blank"
     rel="noreferrer"> 
       </a>
- </p>
  </p>
 <br>
 
