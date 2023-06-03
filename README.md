@@ -27,9 +27,9 @@
 <p align="center">        ▰▰▰──────────────┤ <strong>root:~$ssh Adabs@socialmedia</strong> ├─────────▰▰▰ </p>
 <br>
 │<br>
-├─◈ [LinkedIn](https://www.linkedin.com/in/adabogo-emmanuel-89a213216/)<br>
-├─◈ [Twitter](https://www.twitter.com/Emeritus_adabs)<br>
-├─◈ [Website](Adabs-hub.github.io/me/)<br>
+├─◈ [LinkedIn](https://www.linkedin.com/in/adabogo-emmanuel-89a213216/) <br>
+├─◈ [Twitter](https://www.twitter.com/Emeritus_adabs) <br>
+├─◈ [Website](Adabs-hub.github.io/me/) <br>
 │<br>
 ├─◈ Show some love and star my projects :blush: :heart: :droplet:<br>
 │ <br>
