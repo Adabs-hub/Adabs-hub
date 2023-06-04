@@ -48,3 +48,83 @@
 	<img alt="Adabs stars" src="https://img.shields.io/github/stars/adabs-hub?color=blueviolet" />
 </p>
 
+
+----------------------
+
+  <div class="card">
+                    <img class="logo" src="../public/skill_ico/c++.svg" alt="">
+                    <p>C++</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/1-cPh7ujRIfcHAy4kW2ADGOw.png" alt="">
+                    <p>React</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/1200px-Postgresql_elephant.svg.png" alt="">
+                    <p>Postgres</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/4672509.png" alt="">
+                    <p>JavaScript</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/677843.png" alt="">
+                    <p>Github</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/Bootstrap_logo.svg.png" alt="">
+                    <p>Bootstrap</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/dataAnanyst.png" alt="">
+                    <p>DataAnalysis</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/electonics.png" alt="">
+                    <p>Electronics</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/git.png" alt="">
+                    <p>Git</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/excel.png" alt="">
+                    <p>Excel</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/fedora.svg" alt="">
+                    <p>Fedora</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/next-js.svg" alt="">
+                    <p>Next.js</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/qt.svg" alt="">
+                    <p>Qt-Desktop</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/sql.png" alt="">
+                    <p>SQL</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/tableau.jpg" alt="">
+                    <p>Tableau</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/Kyo-Tux-Delikate-Network.ico" alt="">
+                    <p>TCP/IP(C++)</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/Hopstarter-Soft-Scraps-Web-HTML.ico" alt="">
+                    <p>HTML</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/Graphics-Vibe-Developer-Css.ico" alt="">
+                    <p>CSS</p>
+                </div>
+                <div class="card">
+                    <img class="logo" src="../public/skill_ico/R_logo.svg" alt="">
+                    <p>R</p>
+                </div>
+                </div>
