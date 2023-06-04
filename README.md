@@ -30,7 +30,7 @@
 ├─◈ <a href="https://www.twitter.com/Emeritus_adabs/">Twitter</a>
 ├─◈ <a href="https://www.Adabs-hub.github.io/me/">Website</a>
 │
-├─◈ Show some love and star my projects :blush: :heart: :droplet:<br>
+├─◈ Show some love and star my projects :blush: :heart: :droplet:
 │ 
 </pre>
 <br>
