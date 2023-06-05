@@ -95,7 +95,10 @@
 
 ----------------------
 
+<br>
+
 ![Snake animation](https://github.com/Adabs-hub/Adabs-hub/blob/output/github-contribution-grid-snake.svg)
 
+<br>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5040fb&size=35&center=true&vCenter=true&width=1000&lines=Show+some+love+♥;Star+my+projects+😉 )
