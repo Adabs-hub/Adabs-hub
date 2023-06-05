@@ -1,10 +1,8 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+!;Thanks+for+visiting;Don't+forget+to+follow+for+a+quick+follow+back )
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=404040&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+!👋;Thanks+for+visiting;Don't+forget+to+follow+for+a+quick+follow+back )
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Jefferson;I'm+from+Brazil;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
 -----------------
 
