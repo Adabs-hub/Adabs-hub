@@ -1,7 +1,4 @@
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=404040&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+!👋;Thanks+for+visiting+.+.+.+;Don't+forget+to+follow+for+a+quick+follow+back+😉 )
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=404040&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!%F0%9F%91%8B;Welcome+to+my+QA+profile+.+.+.+;Ensuring+quality+in+every+release!%E2%9C%85 )
 
 -----------------
 
@@ -12,13 +9,13 @@
  │   
  ├─◈ My name is <strong>Adabogo Emmanuel</strong>
  │   
- ├─◈ I'm A potential Full-stack developer
+ ├─◈ I'm a dedicated <strong>Quality Assurance Engineer</strong>
  │
- ├─◈  I love to contribute to open source projects
+ ├─◈ I specialize in test automation, bug detection, and ensuring robust software quality.
  │
  ├─◈ 📫 You can reach me through emmanueladabogo@gmail.com 
  │   
- ├─◈ best quote: <em>Shallow men believe in luck. Strong men believe in cause and effect.</em> -Ralph Waldo Emerson
+ ├─◈ Best quote: <em>Shallow men believe in luck. Strong men believe in cause and effect.</em> -Ralph Waldo Emerson
  │
 </pre>
 
@@ -27,54 +24,50 @@
 <p align="center">        ▰▰▰──────────────┤ <strong>root:~$ssh Adabs@socialmedia</strong> ├─────────▰▰▰ </p>
 <pre>
 │
-├─◈ <a href="https://www.linkedin.com/in/adabogo-emmanuel-89a213216/">LinkIn</a>
-├─◈ <a href="https://www.twitter.com/Emeritus_adabs/">Twitter</a>
-├─◈ <a href="https://adabogoemmanuel.vercel.app/">Website</a>
+├─◈ <a href="https://www.linkedin.com/in/adabogo-emmanuel-89a213216/" target="_blank">LinkedIn</a>
+├─◈ <a href="https://www.twitter.com/Emeritus_adabs/" target="_blank">Twitter</a>
+├─◈ <a href="https://adabogoemmanuel.vercel.app/" target="_blank">Website</a>
 │
-├─◈ Show some love and star my projects :blush: :heart: :droplet:
+├─◈ Connect with me and explore my quality-focused contributions! :star2:
 │ 
 </pre>
 <br>
 <br>
-<div style="display: inline_block">
-  <p align="center">
-    <a href="#">
-      <img align="center" alt="Logo do TypeScript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-    </a>
-  </p>
+<p align="center">      ▰▰▰──────────────────────┤ <strong>root:~$ls skills</strong> ├───────────────────▰▰▰  </p>
+<div align="center">
+  <a href="#" title="TestRail">
+    <img src="https://img.shields.io/badge/TestRail-000000?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail" height="30" width="auto">
+  </a>
+  <a href="#" title="Jira">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="30" width="40">
+  </a>
+  <a href="#" title="Confluence">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" height="30" width="40">
+  </a>
+  <a href="#" title="Selenium">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="30" width="40">
+  </a>
+  <a href="#" title="Cypress">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="Cypress" height="30" width="40">
+  </a>
+  <a href="#" title="Postman">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="30" width="40">
+  </a>
+  <a href="#" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40">
+  </a>
+  <a href="#" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40">
+  </a>
+  <a href="#" title="SQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL (MySQL)" height="30" width="40"> 
+  </a>
+  <a href="#" title="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" width="40">
+  </a>
+  <a href="#" title="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="30" width="40">
+  </a>
 </div>
 
 <br>
@@ -96,4 +89,4 @@
 ----------------------
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5040fb&size=35&center=true&vCenter=true&width=1000&lines=Show+some+love+♥;Star+my+projects+😉 )
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5040fb&size=35&center=true&vCenter=true&width=1000&lines=Committed+to+excellence+%E2%AD%90%EF%B8%8F;Let's+build+quality+together!%F0%9F%99%8C )
