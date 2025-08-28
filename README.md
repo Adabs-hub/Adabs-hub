@@ -29,7 +29,7 @@
 │
 ├─◈ <a href="https://www.linkedin.com/in/adabogo-emmanuel-89a213216/">LinkIn</a>
 ├─◈ <a href="https://www.twitter.com/Emeritus_adabs/">Twitter</a>
-├─◈ <a href="https://www.Adabs-hub.github.io/me/">Website</a>
+├─◈ <a href="https://adabogoemmanuel.vercel.app/">Website</a>
 │
 ├─◈ Show some love and star my projects :blush: :heart: :droplet:
 │ 
