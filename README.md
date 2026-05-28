@@ -15,21 +15,18 @@
 │
 ├─◈ 📫 Contact: emmanueladabogo@gmail.com 
 │   
-├─◈ Philosophy: <em>"Shallow men believe in luck. Strong men believe in cause and effect."</em> — Ralph Waldo Emerson
-│
+└─◈ Philosophy: <em>"Shallow men believe in luck. Strong men believe in cause and effect."</em> — Ralph Waldo Emerson
 </pre>
 
 <br>
 <br>
 <p align="center">▰▰▰──────────────┤ <strong>root:~$ ssh Adabs@socialmedia</strong> ├─────────▰▰▰</p>
 <pre>
-│
 ├─◈ <a href="https://www.linkedin.com/in/adabogo-emmanuel-89a213216/" target="_blank">LinkedIn</a>
 ├─◈ <a href="https://www.twitter.com/Emeritus_adabs/" target="_blank">Twitter</a>
 ├─◈ <a href="https://adabogoemmanuel.vercel.app/" target="_blank">Portfolio Website</a>
 │
-├─◈ Connect with me to explore quality-driven development and automation! ✨
-│ 
+└─◈ Connect with me to explore quality-driven development and automation! ✨
 </pre>
 
 <br>
@@ -61,15 +58,25 @@
 
 <hr />
 
-<p align="center">
-  <a href="https://github.com/adabs-hub?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=adabs-hub&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly" width="48%" alt="Adabs GitHub stats" />
-  </a>
-  <a href="https://github.com/adabs-hub?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adabs-hub&layout=compact&hide_border=true&theme=jolly" width="48%" alt="Most used languages" />
-  </a>
-</p>
 
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top" style="padding: 5px;">
+        <a href="https://github.com/adabs-hub?tab=repositories">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adabs-hub&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" height="195" alt="Adabs GitHub stats">
+        </a>
+      </td>
+      <td align="center" valign="top" style="padding: 5px;">
+        <a href="https://github.com/adabs-hub?tab=repositories">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adabs-hub&layout=compact&hide_border=true&theme=material-palenight" height="195" alt="Most used languages">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 <p align="center">
   <img alt="Adabs visitors" src="https://komarev.com/ghpvc/?username=adabs-hub&color=8c36db&style=flat&label=visitors" />
   <img alt="Adabs followers" src="https://img.shields.io/github/followers/adabs-hub?color=blueviolet" />
