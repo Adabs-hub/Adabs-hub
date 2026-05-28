@@ -1,92 +1,83 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=404040&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!%F0%9F%91%8B;Welcome+to+my+QA+profile+.+.+.+;Ensuring+quality+in+every+release!%E2%9C%85 )
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=404040&size=32&center=true&vCenter=true&width=900&lines=Hi+there!+👋;Welcome+to+my+QA+profile+.+.+.+;Ensuring+quality+in+every+release!+✅" alt="Typing SVG" />
+</p>
 
------------------
+<hr />
 
 <br>
-<p align="center">      ▰▰▰─────────────────────┤ <strong>root:~$whoami</strong> ├────────────────▰▰▰  </p>
+<p align="center">▰▰▰─────────────────────┤ <strong>root:~$ whoami</strong> ├────────────────▰▰▰</p>
 <pre>
- ├─◈
- │   
- ├─◈ My name is <strong>Adabogo Emmanuel</strong>
- │   
- ├─◈ I'm a dedicated <strong>Quality Assurance Engineer</strong>
- │
- ├─◈ I specialize in test automation, bug detection, and ensuring robust software quality.
- │
- ├─◈ 📫 You can reach me through emmanueladabogo@gmail.com 
- │   
- ├─◈ Best quote: <em>Shallow men believe in luck. Strong men believe in cause and effect.</em> -Ralph Waldo Emerson
- │
+├─◈ Name: <strong>Adabogo Emmanuel</strong>
+│   
+├─◈ Role: <strong>Quality Assurance Engineer</strong>
+│
+├─◈ Specialization: Test Automation, API Validation, CI/CD, and Software Quality Excellence
+│
+├─◈ 📫 Contact: emmanueladabogo@gmail.com 
+│   
+├─◈ Philosophy: <em>"Shallow men believe in luck. Strong men believe in cause and effect."</em> — Ralph Waldo Emerson
+│
 </pre>
 
 <br>
 <br>
-<p align="center">        ▰▰▰──────────────┤ <strong>root:~$ssh Adabs@socialmedia</strong> ├─────────▰▰▰ </p>
+<p align="center">▰▰▰──────────────┤ <strong>root:~$ ssh Adabs@socialmedia</strong> ├─────────▰▰▰</p>
 <pre>
 │
 ├─◈ <a href="https://www.linkedin.com/in/adabogo-emmanuel-89a213216/" target="_blank">LinkedIn</a>
 ├─◈ <a href="https://www.twitter.com/Emeritus_adabs/" target="_blank">Twitter</a>
-├─◈ <a href="https://adabogoemmanuel.vercel.app/" target="_blank">Website</a>
+├─◈ <a href="https://adabogoemmanuel.vercel.app/" target="_blank">Portfolio Website</a>
 │
-├─◈ Connect with me and explore my quality-focused contributions! :star2:
+├─◈ Connect with me to explore quality-driven development and automation! ✨
 │ 
 </pre>
+
 <br>
 <br>
-<p align="center">      ▰▰▰──────────────────────┤ <strong>root:~$ls skills</strong> ├───────────────────▰▰▰  </p>
+<p align="center">▰▰▰──────────────────────┤ <strong>root:~$ ls skills</strong> ├───────────────────▰▰▰</p>
+<br>
 <div align="center">
-  <a href="#" title="TestRail">
-    <img src="https://img.shields.io/badge/TestRail-000000?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail" height="30" width="auto">
-  </a>
-  <a href="#" title="Jira">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="30" width="40">
-  </a>
-  <a href="#" title="Confluence">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" height="30" width="40">
-  </a>
-  <a href="#" title="Selenium">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="30" width="40">
-  </a>
-  <a href="#" title="Cypress">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="Cypress" height="30" width="40">
-  </a>
-  <a href="#" title="Postman">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="30" width="40">
-  </a>
-  <a href="#" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40">
-  </a>
-  <a href="#" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40">
-  </a>
-  <a href="#" title="SQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL (MySQL)" height="30" width="40"> 
-  </a>
-  <a href="#" title="Git">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" width="40">
-  </a>
-  <a href="#" title="Docker">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="30" width="40">
-  </a>
+  <!-- Automation & Testing -->
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" height="35" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" height="35" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="35" />
+  <img src="https://img.shields.io/badge/TestRail-0064B6?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail" height="35" />
+  <br><br>
+  <!-- Languages & Databases -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="35" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="35" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" height="35" />
+  <br><br>
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="35" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="35" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="35" />
+  <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" height="35" />
 </div>
 
 <br>
 <br>
-<p align="center">      ▰▰▰──────────────────────┤ <strong>root:~$ps aux</strong> ├───────────────────▰▰▰  </p>
+<p align="center">▰▰▰──────────────────────┤ <strong>root:~$ ps aux --status</strong> ├───────────────────▰▰▰</p>
 
----------------
-
-| [![Adabs GitHub stats](https://github-readme-stats.vercel.app/api?username=adabs-hub&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/adabs-hub?tab=repositories) | [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adabs-hub&layout=compact&hide_border=true&theme=jolly)](https://github.com/adabs-hub?tab=repositories) |
-|:-:|:-:|
+<hr />
 
 <p align="center">
-	<img alt="Adabs visitors" src="https://komarev.com/ghpvc/?username=adabs-hub&color=8c36db&style=flat&label=visitors" />
-	<img alt="Adabs followers" src="https://img.shields.io/github/followers/adabs-hub?color=blueviolet" />
-	<img alt="Adabs stars" src="https://img.shields.io/github/stars/adabs-hub?color=blueviolet" />
+  <a href="https://github.com/adabs-hub?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=adabs-hub&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly" width="48%" alt="Adabs GitHub stats" />
+  </a>
+  <a href="https://github.com/adabs-hub?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adabs-hub&layout=compact&hide_border=true&theme=jolly" width="48%" alt="Most used languages" />
+  </a>
 </p>
 
+<p align="center">
+  <img alt="Adabs visitors" src="https://komarev.com/ghpvc/?username=adabs-hub&color=8c36db&style=flat&label=visitors" />
+  <img alt="Adabs followers" src="https://img.shields.io/github/followers/adabs-hub?color=blueviolet" />
+  <img alt="Adabs stars" src="https://img.shields.io/github/stars/adabs-hub?color=blueviolet" />
+</p>
 
-----------------------
+<hr />
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5040fb&size=35&center=true&vCenter=true&width=1000&lines=Committed+to+excellence+%E2%AD%90%EF%B8%8F;Let's+build+quality+together!%F0%9F%99%8C )
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=5040fb&size=32&center=true&vCenter=true&width=900&lines=Committed+to+excellence+⭐;Let's+build+quality+together!+🙌" alt="Typing SVG" />
+</p>
