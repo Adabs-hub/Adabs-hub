@@ -23,7 +23,6 @@
 <p align="center">▰▰▰──────────────┤ <strong>root:~$ ssh Adabs@socialmedia</strong> ├─────────▰▰▰</p>
 <pre>
 ├─◈ <a href="https://www.linkedin.com/in/adabogo-emmanuel-89a213216/" target="_blank">LinkedIn</a>
-├─◈ <a href="https://www.twitter.com/Emeritus_adabs/" target="_blank">Twitter</a>
 ├─◈ <a href="https://adabogoemmanuel.vercel.app/" target="_blank">Portfolio Website</a>
 │
 └─◈ Connect with me to explore quality-driven development and automation! ✨
